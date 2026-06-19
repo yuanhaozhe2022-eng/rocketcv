@@ -11,7 +11,8 @@ just run this in your terminal: (for now)
 git clone https://github.com/yourname/RocketCV.git
 cd RocketCV
 pip install -r requirements.txt
-python main.py```
+python main.py
+```
 
 # Versions
 ## V0.1
