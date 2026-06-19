@@ -6,6 +6,7 @@ This project is still in a early foundation stage, it will eventually gain all t
 
 ## How To Install And Run
 just run this in your terminal: (for now)
+
 ```git clone https://github.com/yourname/RocketCV.git
 cd RocketCV
 pip install -r requirements.txt
