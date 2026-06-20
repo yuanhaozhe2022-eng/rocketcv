@@ -2,7 +2,7 @@
 ## What Is this
 RocketCV is a Python-based rocket builder and simulator that does all the calculations without you needing to enter all the values manually. It gives a lightweight environment for simulating rockets from body and fin geometry and visualizing them in a CAD-style preview.
 
-This project is still in a early foundation stage, it will eventually gain all the features required for a proper model rocket calculation ans simulation.
+This project is still in a early foundation stage, it will eventually gain all the features required for a proper model rocket calculation and simulation.
 
 ## How To Install And Run
 just run this in your terminal: (for now)
