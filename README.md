@@ -30,8 +30,7 @@ Use anything like:
 * SolidWorks
 * FreeCAD
 * Onshape
-
-Then make a simple and accurate 2D sketch profile of the BODY TUBE from sideway
+* Then make a simple and accurate 2D sketch profile of the BODY TUBE from sideway
 * Note: for the majority of CAD softwares, there's a "Use"  feature which allows you to select the edges from the part then turn them into a 2D plain sketch viewed from the orientation of the sketch face (whatever I think there's a lot of tutorials about this feature online you can just search it up.)
 * Then export it as a DXF file
 
