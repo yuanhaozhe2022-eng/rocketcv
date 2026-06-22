@@ -14,15 +14,7 @@ pip install -r requirements.txt
 python main.py
 ```
 
-# Versions
-## V0.1
-* THIS IS A TESTING VERSION, JUST TO SEE IF EVERYTHING IS WORKING OR NOT
-* No calculation performed yet=(
-* Import rocket body and fin DXF files
-* Extract basic geometry (length(nose cone not included), diameter, width, height, and NO curves yet)
-* Set number of fins
-* CAD-style preview of rocket parts (again, no curves yet)
-* Simple UI for loading and viewing components
+
 
 ## How to use:
 Use anything like:
