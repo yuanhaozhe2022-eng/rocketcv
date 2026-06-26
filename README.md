@@ -8,7 +8,7 @@ This project is still in a early foundation stage, it will eventually gain all t
 just run this in your terminal: (for now)
 
 ```bash
-git clone https://github.com/yourname/RocketCV.git
+git clone https://github.com/yuanhaozhe2022-eng/rocketcv.git
 cd RocketCV
 pip install -r requirements.txt
 python main.py
